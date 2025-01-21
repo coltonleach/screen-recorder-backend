@@ -1,6 +1,8 @@
 # screen-recorder-backend
 In order to use FFmpeg.wasm, you need to set appropriate CORS headers. This is my solution to that.
 
+I originally had the live site on Cyclic, but they shutdown in ~Q2 2024.
+
 Here's the primary source code for the web app itself: https://github.com/coltonleach/screen-recorder
 
 It can still be found in this "backend" repo under the "public" directory.
